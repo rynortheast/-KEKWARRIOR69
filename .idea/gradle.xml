@@ -11,7 +11,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/rubbish_bin" />
+            <option value="$PROJECT_DIR$/task__4-1" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
