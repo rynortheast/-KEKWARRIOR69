@@ -1,3 +1,4 @@
 include ':IntentApp'
 rootProject.name = "KEKWARRIOR69"
 include ':resultactivity'
+include ':systemintentsapp'
