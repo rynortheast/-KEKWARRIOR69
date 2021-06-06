@@ -1,2 +1,2 @@
-include ':app'
+include ':SocketConnection'
 rootProject.name = "KEKWARRIOR69"
