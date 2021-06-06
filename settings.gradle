@@ -2,3 +2,4 @@ include ':app'
 rootProject.name = "KEKWARRIOR69"
 include ':thread'
 include ':data_thread'
+include ':looper'
