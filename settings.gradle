@@ -1,3 +1,4 @@
 include ':app'
 rootProject.name = "KEKWARRIOR69"
 include ':lifecycleactivity'
+include ':explicit_intentions'
