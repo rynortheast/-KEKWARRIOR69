@@ -1,2 +1,3 @@
 include ':preferences'
 rootProject.name = "KEKWARRIOR69"
+include ':notebook'
