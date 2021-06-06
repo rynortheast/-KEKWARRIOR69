@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "KEKWARRIOR69"
+include ':sensors'
+include ':accelerometer'

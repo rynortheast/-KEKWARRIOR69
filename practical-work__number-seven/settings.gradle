@@ -1,0 +1,2 @@
+include ':SocketConnection'
+rootProject.name = "KEKWARRIOR69"

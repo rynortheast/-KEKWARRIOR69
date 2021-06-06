@@ -1,0 +1,6 @@
+include ':rubbish_bin'
+rootProject.name = "KEKWARRIOR69"
+include ':task__4-1'
+include ':task__4-2'
+include ':task__5-2'
+include ':task__7-1'
