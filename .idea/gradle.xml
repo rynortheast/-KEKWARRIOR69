@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/IntentApp" />
+            <option value="$PROJECT_DIR$/resultactivity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
