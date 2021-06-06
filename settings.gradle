@@ -3,3 +3,4 @@ rootProject.name = "KEKWARRIOR69"
 include ':resultactivity'
 include ':systemintentsapp'
 include ':simplefragmentapp'
+include ':mireaproject'
