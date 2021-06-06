@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/google_maps" />
             <option value="$PROJECT_DIR$/labs__first" />
+            <option value="$PROJECT_DIR$/yandex_maps" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
